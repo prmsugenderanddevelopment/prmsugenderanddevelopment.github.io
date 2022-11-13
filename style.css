@@ -207,7 +207,7 @@ h3{
     background: rgba(226,0,0,0.7);
     
 }
-.layer h3{
+.layer li{
     width: 100%;
     font-weight: 500;
     color: #fff;
@@ -220,7 +220,7 @@ h3{
     transition: 0.5s;
     
 }
-.layer:hover h3{
+.layer:hover li{
     bottom: 49%;
     opacity: 1;
     
